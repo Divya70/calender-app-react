@@ -4,7 +4,7 @@ A react demo of google calendar
 
 ## Watch it being used live
 
-[React Google Calendar Clone](https://calender-app-react.vercel.app/)
+[Demo](https://calender-app-react.vercel.app/)
 
 ## Running the Demo
 
